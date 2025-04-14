@@ -1,14 +1,14 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kalyani\\.nuget\\packages\\": {}
+    "C:\\Users\\Nitish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,21 +16,21 @@
       "projectUniqueName": "E:\\AzureWorklabs\\learningapp\\learningapp.csproj",
       "projectName": "learningapp",
       "projectPath": "E:\\AzureWorklabs\\learningapp\\learningapp.csproj",
-      "packagesPath": "C:\\Users\\Kalyani\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Nitish\\.nuget\\packages\\",
       "outputPath": "E:\\AzureWorklabs\\learningapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kalyani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nitish\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -43,12 +43,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -68,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
